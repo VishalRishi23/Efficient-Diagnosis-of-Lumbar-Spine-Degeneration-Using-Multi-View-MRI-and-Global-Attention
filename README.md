@@ -10,3 +10,18 @@ Dataset: Tyler Richards, Jason Talbott, Robyn Ball, Errol Colak, Adam Flanders, 
 
 Pretrained models:
 1) [MaxViT (λ = 0.01)](https://www.kaggle.com/code/vishalrishi/maxvit-rmlp-tiny-rw-256-l0-01)
+2) [MaxViT (λ = 0.1)](https://www.kaggle.com/code/vishalrishi/maxvit-rmlp-tiny-rw-256-l0-1)
+3) [MaxViT (λ = 0.5)](https://www.kaggle.com/code/ch18b013/maxvit-rmlp-tiny-rw-256-l0-5)
+4) [MaxViT (λ = 1.0)](https://www.kaggle.com/code/ch18b013/maxvit-rmlp-tiny-rw-256-l1-0)
+5) [ResNet (λ = 0.01)](https://www.kaggle.com/code/vishalrishi/resnet34-a1-in1k-l0-01)
+6) [ResNet (λ = 0.1)](https://www.kaggle.com/code/vishalrishi/resnet34-a1-in1k-l0-1)
+7) [ResNet (λ = 0.5)](https://www.kaggle.com/code/ch18b013/resnet34-a1-in1k-l0-5)
+8) [ResNet (λ = 1.0)](https://www.kaggle.com/code/ch18b013/resnet34-a1-in1k-l1-0)
+9) [DenseNet (λ = 0.01)](https://www.kaggle.com/code/vishalrishi/densenet201-tv-in1k-l0-01)
+10) [DenseNet (λ = 0.1)](https://www.kaggle.com/code/vishalrishi/densenet201-tv-in1k-l0-1)
+11) [DenseNet (λ = 0.5)](https://www.kaggle.com/code/ch18b013/densenet201-tv-in1k-l0-5)
+12) [DenseNet (λ = 1.0)](https://www.kaggle.com/code/ch18b013/densenet201-tv-in1k-l1-0)
+13) [EfficientNet B5 (λ = 0.01)](https://www.kaggle.com/code/kalaivani04101977/efficientnet-b5-sw-in12k-l0-01)
+14) [EfficientNet B5 (λ = 0.1)](https://www.kaggle.com/code/vishalrishi/efficientnet-b5-sw-in12k-l0-1)
+15) [EfficientNet B5 (λ = 0.5)](https://www.kaggle.com/code/vishalrishi/efficientnet-b5-sw-in12k-l0-5)
+16) [EfficientNet B5 (λ = 1.0)](https://www.kaggle.com/code/vishalrishi/efficientnet-b5-sw-in12k-l1-0)
