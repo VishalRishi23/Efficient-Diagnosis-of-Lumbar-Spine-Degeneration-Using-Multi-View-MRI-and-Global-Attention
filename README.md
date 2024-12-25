@@ -25,3 +25,6 @@ Pretrained models:
 14) [EfficientNet B5 (λ = 0.1)](https://www.kaggle.com/code/vishalrishi/efficientnet-b5-sw-in12k-l0-1)
 15) [EfficientNet B5 (λ = 0.5)](https://www.kaggle.com/code/vishalrishi/efficientnet-b5-sw-in12k-l0-5)
 16) [EfficientNet B5 (λ = 1.0)](https://www.kaggle.com/code/vishalrishi/efficientnet-b5-sw-in12k-l1-0)
+
+**Global attention maps:**
+![destination_path](https://github.com/user-attachments/assets/9a8abcf4-5ef9-4b9c-b4dd-94e2d6fa92a1)
