@@ -8,7 +8,7 @@ This repository contains code notebooks that were used to train and evaluate all
 
 Dataset: Tyler Richards, Jason Talbott, Robyn Ball, Errol Colak, Adam Flanders, Felipe Kitamura, John Mongan, Luciano Prevedello, and Maryam Vazirabad.. RSNA 2024 Lumbar Spine Degenerative Classification. https://kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification, 2024. Kaggle.
 
-Pretrained models:
+**Pretrained models:**
 1) [MaxViT (λ = 0.01)](https://www.kaggle.com/code/vishalrishi/maxvit-rmlp-tiny-rw-256-l0-01)
 2) [MaxViT (λ = 0.1)](https://www.kaggle.com/code/vishalrishi/maxvit-rmlp-tiny-rw-256-l0-1)
 3) [MaxViT (λ = 0.5)](https://www.kaggle.com/code/ch18b013/maxvit-rmlp-tiny-rw-256-l0-5)
