@@ -29,5 +29,5 @@ This repository contains code notebooks that were used to train and evaluate all
 **Global attention maps:**
 ![destination_path](https://github.com/user-attachments/assets/9a8abcf4-5ef9-4b9c-b4dd-94e2d6fa92a1)
 
-Note:
+**Note:**
 While running trainer.ipynb, add this [dataset](https://www.kaggle.com/datasets/coopermini/rsna-v224) to the kernel as well
